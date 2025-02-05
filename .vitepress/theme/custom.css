@@ -1,0 +1,15 @@
+.VPHero .image {
+    max-width: 100%;
+  }
+
+  .VPHero .image-bg {
+      display: none;
+  }
+
+  .VPHero .image-container {
+      display: flex;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      flex-shrink: 0;
+  }
