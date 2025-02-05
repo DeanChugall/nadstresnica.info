@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Ai Agent Tools",
-  description: "Ai Agent Tools",
+  title: "Nadstrešnica",
+  description: "Nadstrešnica",
   base: '/nadstresnica.info',
   appearance: 'force-dark',
   themeConfig: {
@@ -12,24 +12,24 @@ export default defineConfig({
       provider: 'local'
     },
     nav: [
-      { text: 'AGiT Tools', link: '/' },
-      { text: 'MEMORY', link: '/markdown-examples' },
-      { text: 'KNOWLEDGE', link: '/api-examples' }
+      { text: 'Nadstrešnica', link: '/' },
+      { text: 'Dokumentacija', link: '/markdown-examples' },
+      { text: 'Analiza', link: '/api-examples' }
     ],
     logo: '/assets/agent_tools_logo.png',
     siteTitle: false,
     sidebar: [
       {
-        text: 'AGiT Tools',
+        text: 'Nadstrešnica',
         items: [
-          { text: 'searXNG', link: '/markdown-examples' },
-          { text: 'DDG', link: '/api-examples' }
+          { text: 'Dokumentacija', link: '/markdown-examples' },
+          { text: 'Analiza', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/DeanChugall/agent_too_documentation' }
+      { icon: 'github', link: 'https://github.com/DeanChugall/NADSTRESNICA' }
     ]
     
   }
