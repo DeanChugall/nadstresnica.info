@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Ai Agent Tools",
   description: "Ai Agent Tools",
-  base: '/',
+  base: '/nadstresnica.info',
   appearance: 'force-dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
