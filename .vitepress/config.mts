@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Nadstrešnica",
   description: "Nadstrešnica",
-  base: '/nadstresnica.info',
+  base: '/',
   appearance: 'force-dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
