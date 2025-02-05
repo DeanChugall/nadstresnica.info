@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Dokumetacija o renoviranju"
-  text: "železničke stanice u Novom Sadu  "
+  text: "železničke stanice u Novom Sadu"
   tagline:  Detaljna analiza dokumentacije o renoviranju železničke stanice u Novom Sadu
   # image:
   #   src: /nadstresnica-hero.png
