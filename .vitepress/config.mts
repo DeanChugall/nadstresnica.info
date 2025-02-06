@@ -13,8 +13,8 @@ export default defineConfig({
     },
     nav: [
       { text: 'Nadstrešnica', link: '/' },
-      { text: 'Dokumentacija', link: '/markdown-examples' },
-      { text: 'Analiza', link: '/api-examples' }
+      { text: 'Dokumentacija', link: '/#' },
+      { text: 'Analiza', link: '/#' }
     ],
     logo: '/assets/agent_tools_logo.png',
     siteTitle: false,
@@ -22,8 +22,8 @@ export default defineConfig({
       {
         text: 'Nadstrešnica',
         items: [
-          { text: 'Dokumentacija', link: '/markdown-examples' },
-          { text: 'Analiza', link: '/api-examples' }
+          { text: 'Dokumentacija', link: '/#' },
+          { text: 'Analiza', link: '/#' }
         ]
       }
     ],

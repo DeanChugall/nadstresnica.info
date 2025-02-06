@@ -12,13 +12,13 @@ hero:
   actions:
     - theme: brand
       text: Nadstrešnica
-      link: /markdown-examples
+      link: /#
     - theme: brand
       text: Dokumentacija
-      link: /api-examples
+      link: /#
     - theme: brand
       text: Analiza
-      link: /api-examples
+      link: /#
 
 features:
   # - title: Feature A
