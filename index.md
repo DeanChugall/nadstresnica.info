@@ -28,4 +28,6 @@ features:
   # - title: Feature C
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
+> [!IMPORTANT] (7.2.2025.) U procesu je preuzimanje dokumentacije o rekonstrukciji železničke stanice u Novom Sadu.
+>
+> - Prvo sređujemo 10. tačku: **[Dokumentacija Po Dodatnim Zahtevima](https://www.srbija.gov.rs/dokument/845935/dokumenta-ministarstva-gradjevinarstva-saobracaja-i-infrastrukture-koja-se-ticu-moguceg-izvrsenja-krivicnog-dela-povodom-pada-nadstresnice-na-zeleznickoj-stanici-u-novom-sadu-1-novembra-2024-godine-22.php)**
