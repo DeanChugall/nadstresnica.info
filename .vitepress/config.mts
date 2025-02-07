@@ -7,6 +7,21 @@ export default defineConfig({
   base: '/',
   appearance: 'force-dark',
   lastUpdated: true,
+  head: [
+    [
+      'script',
+      { async: '', src: "https://www.googletagmanager.com/gtag/js?id=G-V9965J5WZR" }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-V9965J5WZR');`
+    ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
@@ -28,10 +43,8 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/DeanChugall/NADSTRESNICA' }
     ]
-    
   }
-})
+});
