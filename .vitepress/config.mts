@@ -32,7 +32,7 @@ export default defineConfig({
       { text: 'Dokumentacija', link: '/#' },
       { text: 'Analiza', link: '/#' }
     ],
-    logo: '/assets/agent_tools_logo.png',
+    // logo: '/assets/agent_tools_logo.png',
     siteTitle: false,
     sidebar: [
       {
@@ -45,6 +45,10 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/DeanChugall/NADSTRESNICA' }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2019-present Evan You'
+    }
   }
 });
