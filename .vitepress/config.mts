@@ -38,6 +38,7 @@ export default defineConfig({
       {
         // text: 'Nadstrešnica',
         items: [
+          { text: 'Home', link: '/' },
           { text: 'Dokumentacija', link: '/dokumentacija' },
           { text: 'Analiza', link: '/analiza' }
         ]
