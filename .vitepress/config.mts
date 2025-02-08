@@ -94,8 +94,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/DeanChugall/NADSTRESNICA' }
     ],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025'
+      // message: 'Released under the MIT License.',
+      copyright: 'info[at]dejan.pro © 2025'
     }
   }
 });
