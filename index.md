@@ -10,15 +10,15 @@ hero:
   #   src: /nadstresnica-hero.png
   #   alt: VitePress
   actions:
-    - theme: brand
-      text: Nadstrešnica
-      link: /#
+    # - theme: brand
+      # text: Nadstrešnica
+      # link: /#
     - theme: brand
       text: Dokumentacija
-      link: /#
+      link: /dokumentacija
     - theme: brand
       text: Analiza
-      link: /#
+      link: /analiza
 
 features:
   # - title: Feature A

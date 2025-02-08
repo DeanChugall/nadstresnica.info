@@ -28,18 +28,18 @@ export default defineConfig({
       provider: 'local'
     },
     nav: [
-      { text: 'Nadstrešnica', link: '/' },
-      { text: 'Dokumentacija', link: '/#' },
-      { text: 'Analiza', link: '/#' }
+      { text: 'Home', link: '/' },
+      { text: 'Dokumentacija', link: '/dokumentacija' },
+      { text: 'Analiza', link: '/analiza' }
     ],
     // logo: '/assets/agent_tools_logo.png',
     siteTitle: false,
     sidebar: [
       {
-        text: 'Nadstrešnica',
+        // text: 'Nadstrešnica',
         items: [
-          { text: 'Dokumentacija', link: '/#' },
-          { text: 'Analiza', link: '/#' }
+          { text: 'Dokumentacija', link: '/dokumentacija' },
+          { text: 'Analiza', link: '/analiza' }
         ]
       }
     ],
