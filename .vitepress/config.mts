@@ -35,14 +35,22 @@ export default defineConfig({
     // logo: '/assets/agent_tools_logo.png',
     siteTitle: false,
     sidebar: {
-      // This sidebar gets displayed when a user
-      // is on `guide` directory.
+
+      // This sidebar gets displayed when a user is on `dokumentacija` directory.
       '/dokumentacija/': [
+        // Sidebar global navigation links
+        {
+          items: [
+                { text: 'Home', link: '/' },
+                { text: 'Analiza', link: '/analiza/'}
+              ]
+        },
+        // Sidebar navigation links
         {
           text: 'Dokumentacija',
           collapsed: false,
           items: [
-            { text: 'Preuzimanje', link: '/dokumentacija/',
+            { text: 'Celokupna Dokumntacija', link: '/dokumentacija/',
             items: [
                 { text: 'Dokumentacija RAW', link: '/dokumentacija/preuzimanje-dokumentacije' },
               ]
@@ -50,7 +58,14 @@ export default defineConfig({
           ]
         }
       ],
+      // This sidebar gets displayed when a user is on `analiza` directory.
       '/analiza/': [
+        {
+          items: [
+                { text: 'Home', link: '/' },
+                { text: 'Dokumentacija', link: '/dokumentacija/'}
+              ]
+        },
         {
           text: 'ANALIZA',
           collapsed: false,
