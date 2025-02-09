@@ -6,4 +6,5 @@ import MyLayout from "./NadstresnicaLayout.vue";
 export default {
     extends: DefaultTheme,
     Layout: MyLayout,
+    head: [['link', { rel: 'icon', href: 'assets/favicon.ico' }]],
 };

@@ -32,7 +32,7 @@ export default defineConfig({
       { text: 'Dokumentacija', link: '/dokumentacija' },
       { text: 'Analiza', link: '/analiza' }
     ],
-    // logo: '/assets/agent_tools_logo.png',
+    logo: '/assets/protest-krvavaruka-skrinsot.png',
     siteTitle: false,
     sidebar: {
 
