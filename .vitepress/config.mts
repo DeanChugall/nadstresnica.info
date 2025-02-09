@@ -50,7 +50,7 @@ export default defineConfig({
           text: 'Dokumentacija',
           collapsed: false,
           items: [
-            { text: 'Celokupna Dokumntacija', link: '/dokumentacija/',
+            { text: 'Celokupna dokumentacija', link: '/dokumentacija/',
             items: [
                 { text: 'Dokumentacija RAW', link: '/dokumentacija/preuzimanje-dokumentacije' },
               ]
