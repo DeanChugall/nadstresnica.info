@@ -32,7 +32,7 @@ features:
 # Obaveštenja:
 
 > [!WARNING] (8.2.2025.)
-> - Dostupni dokumenti na **G-DRIVE-u** i **ZIP** formatu, a u vezi celokupnog projekta izrade brze pruge Beograd-Subotica:
+> - Dostupna dokumenticija na **G-DRIVE-u** i **ZIP** formatu, a u vezi celokupnog projekta izrade brze pruge Beograd-Subotica:
 >
 > **[DOKUMENTACIJA [ G-DRIVE ] po folderima](https://drive.google.com/drive/folders/1JnY0cUPzIX9tSkZ-cFRiDXdSgtqmhvYd?usp=sharing)**
 >
