@@ -32,8 +32,12 @@ features:
 # Obaveštenja:
 
 > [!WARNING] (8.2.2025.)
-> - Dostupni dokumenti na G-DRIVE-u, a u vezi rekonstrukcije železničke stanice u Novom Sadu:
-> **[DOKUMENTACIJA G-DRIVE](https://drive.google.com/drive/folders/1JnY0cUPzIX9tSkZ-cFRiDXdSgtqmhvYd?usp=sharing)**
+> - Dostupni dokumenti na **G-DRIVE-u** i **ZIP** formatu, a u vezi rekonstrukcije železničke stanice u Novom Sadu:
+>
+> **[DOKUMENTACIJA(G-DRIVE) po folderima](https://drive.google.com/drive/folders/1JnY0cUPzIX9tSkZ-cFRiDXdSgtqmhvYd?usp=sharing)**
+>
+> **[SVA DOKUMENTACIJA ZIP file format](https://drive.google.com/file/d/1_Fa0NNSXHu1Nmwsz5wWEJYA5lNXP8BoD/view?usp=sharing)**
+
 
 ---
 
