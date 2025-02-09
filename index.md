@@ -31,6 +31,11 @@ features:
 
 # Obaveštenja:
 
+> [!IMPORTANT] (9.2.2025.) 
+> 
+> - U procesu je EXTRAKCIJA .rar, .zip dokumentacije.
+>
+
 > [!WARNING] (8.2.2025.)
 > - Dostupna dokumenticija na **G-DRIVE-u** i **ZIP** formatu, a u vezi celokupnog projekta izrade brze pruge Beograd-Subotica:
 >
