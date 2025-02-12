@@ -9,6 +9,7 @@ Trenutna dokumentacija se nalazi na sledećim sajtovima:
 
 - [Vlade Republike Srbije](https://www.srbija.gov.rs/dokument/843976/)
 - [Infrastrukture železnice Srbije](https://infrazs.rs/dokumenta_o_padu_nadstresnice/)
+- [Više Javno Tužilaštvo Novi Sad](https://novisad.vjt.rs/aktuelnosti/vazno/)
 
 ## Sadržaj dokumentacije Vlade Republike Srbije
 

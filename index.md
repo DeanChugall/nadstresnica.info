@@ -20,16 +20,29 @@ hero:
       text: Analiza
       link: /analiza
 
-features:
-  # - title: Feature A
-  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - title: Feature B
-  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - title: Feature C
-  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 # Obaveštenja:
+
+> [!IMPORTANT] (13.2.2025.) 
+> 
+> - U procesu je EXTRAKCIJA podataka iz .pdf, docx, ...itd. formata i spremanje za pretragu i analizu.
+
+> [!WARNING] (12.2.2025.) Sva dokumentacija je preuzeta i raspakovana.
+> 
+> Više informacija na linku: **[Dokumentacija](/dokumentacija)**
+> 
+> 
+
 
 > [!IMPORTANT] (9.2.2025.) 
 > 
