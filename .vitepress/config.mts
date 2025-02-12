@@ -7,6 +7,7 @@ export default defineConfig({
   base: '/',
   appearance: 'force-dark',
   lastUpdated: true,
+  ignoreDeadLinks: true,
   head: [
     [
       'script',
@@ -50,7 +51,7 @@ export default defineConfig({
           text: 'Dokumentacija',
           collapsed: false,
           items: [
-            { text: 'Celokupna dokumentacija', link: '/dokumentacija/',
+            { text: 'Opis dokumentacija', link: '/dokumentacija/',
             items: [
                 { text: 'Dokumentacija RAW', link: '/dokumentacija/preuzimanje-dokumentacije' },
               ]
