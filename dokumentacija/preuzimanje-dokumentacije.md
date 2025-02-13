@@ -1,5 +1,6 @@
 ---
-layout: doc
+outline: doc
+title: Preuzimanje Dokumentacije
 ---
 
 # Preuzimanje Dokumentacije
@@ -7,15 +8,23 @@ layout: doc
 <!-- ::: warning USKORO
 ::: -->
 
-Dostupna dokumentacija za pregled i preuzimanje na **G-Drive** i u **ZIP** formatu.  
+<!-- Sva dostupna dokumentacija za pregled i preuzimanje na **G-Drive** i u **ZIP** formatu.   -->
+Dokumentacija je dostupna na sledećim linkovima:
 
-## 📁 G-Drive po folderima:
+### 📁 Dokumentacija [G-Drive]:
 
-[Kliknite ovde za pristup folderima](https://drive.google.com/drive/folders/1NRgrNr0yUHmJT91djhGj00vC2HX7s68-?usp=sharing)
+> **[Pregled dokumentacije po folderima](https://drive.google.com/drive/folders/1JnY0cUPzIX9tSkZ-cFRiDXdSgtqmhvYd?usp=sharing)**
+>
 
-## 🗜 ZIP-ovana dokumentacija (135 GB):
+>
+> **[Dokumentacija u izvornom obliku](https://drive.google.com/drive/folders/1NRgrNr0yUHmJT91djhGj00vC2HX7s68-?usp=sharing)**
+>
+> **[Raspakovana Dokumentacija](https://drive.google.com/drive/folders/1gJ5A2ZqBAEjlBDTzI_ZfmwEuAAA1BPpx?usp=sharing)**
 
-[Preuzmite ZIP datoteku](https://drive.google.com/file/d/1_Fa0NNSXHu1Nmwsz5wWEJYA5lNXP8BoD/view?usp=sharing)
+
+## 🗜 ZIP-ovana dokumentacija:
+
+[Raspakovana Dokumentacija](https://drive.google.com/file/d/1mNwnnYwjVY1PyUf4PW-t0pP0xDs0Wyz8/view?usp=sharing)
 <!-- This page demonstrates usage of some of the runtime APIs provided by VitePress.
 
 The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:

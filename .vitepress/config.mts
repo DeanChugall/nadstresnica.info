@@ -51,9 +51,9 @@ export default defineConfig({
           text: 'Dokumentacija',
           collapsed: false,
           items: [
-            { text: 'Opis dokumentacija', link: '/dokumentacija/',
+            { text: 'Opis dokumentacije', link: '/dokumentacija/',
             items: [
-                { text: 'Dokumentacija RAW', link: '/dokumentacija/preuzimanje-dokumentacije' },
+                { text: 'Preuzimanje Dokumentacije', link: '/dokumentacija/preuzimanje-dokumentacije' },
               ]
             },
           ]
