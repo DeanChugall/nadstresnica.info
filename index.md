@@ -17,6 +17,9 @@ hero:
       text: Dokumentacija
       link: /dokumentacija
     - theme: brand
+      text: Pretraga
+      link: https://pretraga.nadstresnica.info/
+    - theme: brand
       text: Analiza
       link: /analiza
 

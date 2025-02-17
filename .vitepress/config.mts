@@ -31,6 +31,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Dokumentacija', link: '/dokumentacija' },
+      { text: 'Pretraga', link: 'https://pretraga.nadstresnica.info/' },
       { text: 'Analiza', link: '/analiza' }
     ],
     logo: '/assets/protest-krvavaruka-skrinsot.png',
