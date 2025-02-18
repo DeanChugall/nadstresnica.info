@@ -36,6 +36,20 @@ hero:
 
 # Obaveštenja:
 
+> [!WARNING] (18.2.2025.) Još tri kategorije dokumenata su u procesu ekstrakcije podataka, dostupna preliminarna pretraga.
+> 
+> Kategorije koje su otale da se obrade:
+>
+> 📌 9_CEOP_DOKUMENTACIJA_IZ_APR
+>
+> 📌 10_DOK_PO_DODATNIM_ZAHTEVIMA
+>
+> 📌 12_VJT_NS_DOKUMENTACIJA
+>
+> ---
+> **Pretraga dostupna na linku: [Pretraga Dokumentacije](https://pretraga.nadstresnica.info/)**
+> 
+
 > [!IMPORTANT] (13.2.2025.) 
 > 
 > - U procesu je EXTRAKCIJA podataka iz .pdf, docx, ...itd. formata i spremanje za pretragu i analizu.
@@ -44,8 +58,6 @@ hero:
 > 
 > Više informacija na linku: **[Dokumentacija](/dokumentacija)**
 > 
-> 
-
 
 > [!IMPORTANT] (9.2.2025.) 
 > 
