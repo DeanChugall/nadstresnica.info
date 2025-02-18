@@ -38,7 +38,7 @@ hero:
 
 > [!WARNING] (18.2.2025.) Još tri kategorije dokumenata su u procesu ekstrakcije podataka, dostupna preliminarna pretraga.
 > 
-> Kategorije koje su otale da se obrade:
+> Kategorije koje su ostale da se obrade:
 >
 > 📌 9_CEOP_DOKUMENTACIJA_IZ_APR
 >
