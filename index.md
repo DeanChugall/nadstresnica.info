@@ -47,8 +47,9 @@ hero:
 > 📌 12_VJT_NS_DOKUMENTACIJA
 >
 > ---
-> **Pretraga dostupna na linku: [Pretraga Dokumentacije](https://pretraga.nadstresnica.info/)**
-> 
+> 🔎 **Pretraga dostupna na linku: [PRETRAGA DOKUMENTACIJE](https://pretraga.nadstresnica.info/)**
+>
+> 📂 **Pristup Dokumentaciji: [DOKUMENTACIJA [ G-DRIVE ] po folderima](https://drive.google.com/drive/folders/1JnY0cUPzIX9tSkZ-cFRiDXdSgtqmhvYd?usp=sharing)**
 
 > [!IMPORTANT] (13.2.2025.) 
 > 
