@@ -36,9 +36,21 @@ hero:
 
 # Obaveštenja:
 
+> [!IMPORTANT] (20.2.2025.) 
+> 
+> ✅ 12_VJT_NS_DOKUMENTACIJA **GOTOVA**
+> 
+> Ostale još dve kategorije dokumenata za ekstrakciju podataka koja su u procesu:
+>
+> 📌 9_CEOP_DOKUMENTACIJA_IZ_APR
+>
+> 📌 10_DOK_PO_DODATNIM_ZAHTEVIMA
+>
+>
+
 > [!WARNING] (18.2.2025.) Još tri kategorije dokumenata su u procesu ekstrakcije podataka, dostupna preliminarna pretraga.
 > 
-> Kategorije koje su ostale da se obrade:
+> <u>Kategorije koje su ostale da se "izvuku" podaci:</u>
 >
 > 📌 9_CEOP_DOKUMENTACIJA_IZ_APR
 >
@@ -47,6 +59,7 @@ hero:
 > 📌 12_VJT_NS_DOKUMENTACIJA
 >
 > ---
+>
 > 🔎 **Pretraga dostupna na linku: [PRETRAGA DOKUMENTACIJE](https://pretraga.nadstresnica.info/)**
 >
 > 📂 **Pristup Dokumentaciji: [DOKUMENTACIJA [ G-DRIVE ] po folderima](https://drive.google.com/drive/folders/1JnY0cUPzIX9tSkZ-cFRiDXdSgtqmhvYd?usp=sharing)**
