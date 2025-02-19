@@ -1,7 +1,7 @@
 ---
 outline: doc
 ---
-# Analiza
+# Analiza Dokumentacije
 
 ::: warning USKORO
 :::
