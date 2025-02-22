@@ -36,6 +36,17 @@ hero:
 
 # Obaveštenja:
 
+> [!WARNING] (22.2.2025.) 
+> 
+> ✅ 9_CEOP_DOKUMENTACIJA_IZ_APR: **GOTOVA**
+> 
+> Ostale još jedna kategorije dokumenata za ekstrakciju podataka koja su u procesu:
+>
+> 📌 10_DOK_PO_DODATNIM_ZAHTEVIMA
+>
+>Poboljšan UI pretrage na linku: [PRETRAGA DOKUMENTACIJE](https://pretraga.nadstresnica.info/)
+>
+
 > [!IMPORTANT] (20.2.2025.) 
 > 
 > ✅ 12_VJT_NS_DOKUMENTACIJA **GOTOVA**
