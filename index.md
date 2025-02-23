@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Dokumetacija o rekonstrukciji"
+  name: "Dokumentacija o rekonstrukciji"
   text: "železničke stanice u Novom Sadu"
   tagline:  Detaljna analiza dokumentacije o rekonstrukciji železničke stanice u Novom Sadu
   # image:
