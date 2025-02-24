@@ -36,6 +36,57 @@ hero:
 
 # Obaveštenja:
 
+> [!IMPORTANT] (24.2.2025.) 
+> 
+> 🚨🚨 **🔹 FAZA 1 – ZAVRŠENA! what a ride...🔹** 🚨🚨
+>
+> ---
+> 
+> 📢 **Šta to znači?**
+> Celokupna dokumentacija o urušavanju nadstrešnice na železničkoj stanici u Novom Sadu sada je dostupna za pretragu:
+> 
+> ➡️ https://lnkd.in/dXsNbvrG
+> 
+> 🔎 **Dokumentacija je organizovana po izvorima:**
+>
+> ────୨ৎ────
+>
+> - ✅ Vlada Republike Srbije (VRS)
+> - ✅ Infrastruktura železnice Srbije (IžS)
+> - ✅ Više javno tužilaštvo Novi Sad (VJT)
+> 
+> 🔹 Kategorije dokumenata uključuju:
+> - 📂 1_PROJEKAT [VRS]
+> - 📂 2_NADSTRESNICA [VRS]
+> - 📂 3_IZVESTAJI_MESECNI [VRS]
+> - 📂 4_IZVESTAJI_NEDELJNI [VRS]
+> - 📂 5_TEHNICKI_PREGLEDI [VRS]
+> - 📂 6_PRIKLJUCENJA [VRS]
+> - 📂 7_POKRAJNSKA_INSPEKCIJA [VRS]
+> - 📂 8_DIREKCIJA_ZA_ZELEZNICE_I_OPSTA_AKTA [VRS]
+> - 📂 9_CEOP_DOKUMENTACIJA_IZ_APR [VRS]
+> - 📂 10_DOK_PO_DODATNIM_ZAHTEVIMA [VRS]
+> - 📂 11_DOKUMENTA_ZELEZNICA_SRBIJE [IžS]
+> - 📂 12_VJT_NS_DOKUMENTACIJA [VJT]
+> 
+> 🎢 **Malo statistike:**
+>
+> ────୨ৎ────
+>
+> - 🗃️ Ukupno dokumenata: 20.327
+> - 📄 Broj stranica: 531.289
+> - 📂 Broj foldera: 3.791
+> 
+> 🚀 **Šta dalje? 🔹FAZA 2🔹 – Aktiviranje AI alata!** 
+>
+> ────୨ৎ────
+>
+> Kako bismo unapredili pretragu i analizu dokumentacije, planiramo implementaciju AI tehnologija (LLM, NER, NLP itd.).
+>
+> Pozivamo sve relevantne stručnjake da se uključe i svojim ekspertizama pomognu u definisanju i usmeravanju AI rešenja. Svaka sugestija, ideja i predlog su dobrodošli!
+> 
+>
+
 > [!WARNING] (22.2.2025.) 
 > 
 > ✅ 9_CEOP_DOKUMENTACIJA_IZ_APR: **GOTOVA**
