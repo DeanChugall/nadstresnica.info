@@ -45,7 +45,7 @@ hero:
 > 📢 **Šta to znači?**
 > Celokupna dokumentacija o urušavanju nadstrešnice na železničkoj stanici u Novom Sadu sada je dostupna za pretragu:
 > 
-> ➡️ https://lnkd.in/dXsNbvrG
+> ➡️ https://pretraga.nadstresnica.info/
 > 
 > 🔎 **Dokumentacija je organizovana po izvorima:**
 >
