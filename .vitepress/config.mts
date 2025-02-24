@@ -34,7 +34,7 @@ export default defineConfig({
       { text: 'Pretraga', link: 'https://pretraga.nadstresnica.info/' },
       { text: 'Analiza', link: '/analiza' }
     ],
-    logo: '/assets/protest-krvavaruka-skrinsot.png',
+    logo: '/assets/logo-nadstresnica-1.png',
     siteTitle: false,
     sidebar: {
 
