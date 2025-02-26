@@ -36,6 +36,12 @@ hero:
 
 # Obaveštenja:
 
+> [!WARNING] (26.2.2025.) 
+> 
+> U toku je ekstrakcija svih datoteka koji nemaju **.PDF** ekstenziju (**.msg, .docx, .xlsx, .pptx, ...itd.**) i njihovo konvertovanje u .PDF format.
+> Pre svega se fokusiramo na **.msg** datoteke, jer su to najčešće e-mail poruke koje sadrže važne informacije.
+>
+
 > [!IMPORTANT] (24.2.2025.) 
 > 
 > 🚨🚨 **🔹 FAZA 1 – ZAVRŠENA! what a ride...🔹** 🚨🚨
