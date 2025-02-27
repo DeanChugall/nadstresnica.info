@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Nadstrešnica",
-  description: "Nadstrešnica",
+  title: "Dokumentacija Nadstrešnica Novi Sad",
+  description: "Dokumentacija o padu nadstrešnice na železničkoj stanici u Novom Sadu",
   base: '/',
   appearance: 'force-dark',
   lastUpdated: true,
