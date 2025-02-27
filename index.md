@@ -43,6 +43,9 @@ hero:
 >
 > ✅ Konvertovani svi **.docx, .doc, .xlsx, .xls** dokumenti u **.PDF** format.
 > - Pristup **office dokumentima** na linku: [OFFICE DOKUMENTA](https://drive.google.com/drive/folders/1sc00PImY5CRldESG-z6ECL1ZoB8lQT9k?usp=sharing)
+>
+> 🚨🚨 **U toku je ubacivanje gorespomenutih dokumenata u *search engine* 🚨🚨**
+>
 
 
 > [!WARNING] (26.2.2025.) 
