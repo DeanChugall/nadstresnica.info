@@ -36,6 +36,15 @@ hero:
 
 # Obaveštenja:
 
+> [!IMPORTANT] (27.2.2025.) 
+> 
+> ✅ Raspakovane sve email poruke (**.msg**) i konvertovani u **.PDF** format.
+> - Pristup email (**.msg**) porukama na linku: [EMAIL PORUKE](https://drive.google.com/drive/folders/16v4lwUwaccrvUep615EFIQLhw1q4QR_t?usp=sharing)
+>
+> ✅ Konvertovani svi **.docx, .doc, .xlsx, .xls** dokumenti u **.PDF** format.
+> - Pristup **office dokumentima** na linku: [OFFICE DOKUMENTA](https://drive.google.com/drive/folders/1sc00PImY5CRldESG-z6ECL1ZoB8lQT9k?usp=sharing)
+
+
 > [!WARNING] (26.2.2025.) 
 > 
 > U toku je ekstrakcija svih datoteka koji nemaju **.PDF** ekstenziju (**.msg, .docx, .xlsx, .pptx, ...itd.**) i njihovo konvertovanje u .PDF format.
