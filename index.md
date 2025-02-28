@@ -36,6 +36,26 @@ hero:
 
 # Obaveštenja:
 
+> [!WARNING] (28.2.2025.) 
+> 
+> Ubačene Email (.msg) poruke i (office) dokumenti i dostupni za pretragu.
+> 
+> 🔹 Kategorije dokumenata uključuju:
+> - 📂 1_PROJEKAT [VRS]
+> - 📂 2_NADSTRESNICA [VRS]
+> - 📂 3_IZVESTAJI_MESECNI [VRS]
+> - 📂 4_IZVESTAJI_NEDELJNI [VRS]
+> - 📂 5_TEHNICKI_PREGLEDI [VRS]
+> - 📂 6_PRIKLJUCENJA [VRS]
+> - 📂 7_POKRAJNSKA_INSPEKCIJA [VRS]
+> - 📂 8_DIREKCIJA_ZA_ZELEZNICE_I_OPSTA_AKTA [VRS]
+> - 📂 9_CEOP_DOKUMENTACIJA_IZ_APR [VRS]
+> - 📂 10_DOK_PO_DODATNIM_ZAHTEVIMA [VRS]
+> - 📂 11_DOKUMENTA_ZELEZNICA_SRBIJE [IžS]
+> - 📂 12_VJT_NS_DOKUMENTACIJA [VJT]
+> - 📂 13_EMAIL_MSG_PODACI_EXTRACTED [EMAIL]
+> - 📂 14_OFFICE_DATOTEKE_EXTRACTED [OFFICE]
+
 > [!IMPORTANT] (27.2.2025.) 
 > 
 > ✅ Raspakovane sve email poruke (**.msg**) i konvertovani u **.PDF** format.
