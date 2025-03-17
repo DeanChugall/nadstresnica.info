@@ -35,6 +35,19 @@ hero:
 ---
 
 # Obaveštenja:
+
+> [!WARNING] (17.3.2025.) 
+> 
+> U toku je priprema dokumentacije za obradu podataka upotrebom alata veštačke inteligencijei to:
+>
+> ✅ Izvlačenje svi pdf stranica i celokune dokumentacije
+>
+> 🚧 Učitavanje na s3 bucket (...In progress...)
+>
+> 🔹 Priprema sistema za distribuiranu obradu
+>
+> 🔹 Obrada podataka
+
 > [!IMPORTANT] (06.03.2025.) 
 > 
 > 🚨🚨 **🔹 JUPiiiiiiiiiiiii...stiže nam još dokumentacije !!!!!!!🔹** 🚨🚨
