@@ -40,13 +40,14 @@ hero:
 > 
 > U toku je priprema dokumentacije za obradu podataka upotrebom alata veštačke inteligencijei to:
 >
-> ✅ Izvlačenje svi pdf stranica i celokune dokumentacije
+> ✅ Izvlačenje svih pdf stranica i celokupne dokumentacije.
 >
 > 🚧 Učitavanje na s3 bucket (...In progress...)
 >
-> 🔹 Priprema sistema za distribuiranu obradu
+> 🔹 Priprema sistema za distribuiranu obradu.
 >
-> 🔹 Obrada podataka
+> 🔹 Obrada podataka.
+>
 
 > [!IMPORTANT] (06.03.2025.) 
 > 
