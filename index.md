@@ -42,9 +42,9 @@ hero:
 >
 > ✅ Izvlačenje svih pdf stranica i celokupne dokumentacije.
 >
-> 🚧 Učitavanje na s3 bucket (...In progress...)
+> ✅  Učitavanje na s3 bucket (...18.3.2025...)
 >
-> 🔹 Priprema sistema za distribuiranu obradu.
+> 🚧 Priprema sistema za distribuiranu obradu (...In Progress...)
 >
 > 🔹 Obrada podataka.
 >
