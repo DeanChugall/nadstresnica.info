@@ -26,7 +26,6 @@ hero:
       text: 🎢 Analiza
       link: /analiza
 
-
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
