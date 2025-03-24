@@ -14,11 +14,14 @@ hero:
       # text: Nadstrešnica
       # link: /#
     - theme: brand
-      text: Dokumentacija
-      link: /dokumentacija
-    - theme: brand
       text: Pretraga
       link: https://pretraga.nadstresnica.info/
+    - theme: brand
+      text: ChatBot
+      link: https://ai.nadstresnica.info/
+    - theme: brand
+      text: Dokumentacija
+      link: /dokumentacija
     - theme: brand
       text: Analiza
       link: /analiza
