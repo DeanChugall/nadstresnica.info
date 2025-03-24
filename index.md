@@ -35,6 +35,37 @@ hero:
 ---
 
 # Obaveštenja:
+> [!IMPORTANT] (24.03.2025.) 
+> 
+> 📢 **Veliki korak napred u istraživanju incidenta sa padom nadstrešnice na železničkoj stanici u Novom Sadu – dokumentacija je sada dostupna u interaktivnoj formi uz pomoć veštačke inteligencije!**
+> 
+> 🤖 **Chatbot (pitanja & odgovori)**:
+> https://ai.nadstresnica.info
+> 
+> 🔎 **Pretraga dokumenata**:
+> https://pretraga.nadstresnica.info
+> 
+> -> **Ova dva alata zajedno omogućavaju brže, jednostavnije i fokusiranije istraživanje velike količine dokumenata – i postavljaju odličnu osnovu za sledeće faze analize.**
+> 
+> 🧠 **Tehnički detalji:**
+>
+> OCR je trenutno realizovan putem pytesseract i PIL biblioteka – uz ograničeni kvalitet (u toku je unapređenje kroz integraciju naprednijih AI OCR rešenja).
+> Za rad je iskorišćena OpenAI infrastruktura:
+> 
+> - Embeddings: text-embedding-3-small
+> - Inference: gpt-4o-mini
+> - Vector database: Qdrant
+> 
+> 🚀 **Šta nas čeka u FAZI 3?**
+>
+> ────୨ৎ────
+>
+> 👉 Poboljšanje OCR-a.
+> 
+> 👉 Kreiranje javno dostupnih "Hugging Face" datasetova.
+> 
+> 👉 I naravno – nove ideje koje će iz svega ovoga sigurno proizaći.
+> 
 
 > [!WARNING] (17.3.2025.) 
 > 
