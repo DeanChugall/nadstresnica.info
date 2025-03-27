@@ -38,6 +38,39 @@ hero:
 ---
 
 # Obaveštenja:
+> [!WARNING] (27.3.2025.)  
+>  
+> U toku je implementacija **Graph-Enhanced Entity and Relationship Extraction**:  
+> <a href="https://arxiv.org/abs/2410.05779" rel="nofollow" target="_blank">
+> <img src="https://camo.githubusercontent.com/75124114ae539f960521098bc31b590246873173eef5b4329622b55ceda6788b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d323431302e30353737392d623331623162" data-canonical-src="https://img.shields.io/badge/arXiv-2410.05779-b31b1b" style="max-width: 100%;">
+> </a>
+>
+>---
+>
+> 🔹 Obrada podataka pomoću LLM-a — vršimo automatsko prepoznavanje ključnih entiteta kao što su imena, datumi, lokacije i događaji iz tekstualne dokumentacije.  
+>  
+> 🔹 Identifikacija i mapiranje odnosa između entiteta radi izgradnje sveobuhvatnog **grafičkog modela znanja** koji osvetljava međusobne veze i obrasce unutar celokupne kolekcije dokumenata.  
+>  
+> 🔹 Korišćenje napredne segmentacije dokumenata za efikasnije pretraživanje i precizno pronalaženje relevantnih informacija bez potrebe za analizom cele dokumentacije.
+>
+>---
+>
+> **Kategorije dokumenata koje su u progresu:**
+> - ✅ 📂 **1_PROJEKAT** [VRS]
+> - ✅ 📂 **2_NADSTRESNICA** [VRS]
+> - ✅ 📂 **3_IZVESTAJI_MESECNI** [VRS]
+> - 🚧  *4_IZVESTAJI_NEDELJNI* [VRS]
+> - 🚧  *5_TEHNICKI_PREGLEDI* [VRS]
+> - 🚧  *6_PRIKLJUCENJA* [VRS]
+> - 🚧  *7_POKRAJNSKA_INSPEKCIJA* [VRS]
+> - 🚧  *8_DIREKCIJA_ZA_ZELEZNICE_I_OPSTA_AKTA* [VRS]
+> - 🚧  *9_CEOP_DOKUMENTACIJA_IZ_APR* [VRS]
+> - 🚧  *10_DOK_PO_DODATNIM_ZAHTEVIMA* [VRS]
+> - 🚧  *11_DOKUMENTA_ZELEZNICA_SRBIJE* [IžS]
+> - 🚧  *12_VJT_NS_DOKUMENTACIJA* [VJT]
+> - 🚧  *13_EMAIL_MSG_PODACI_EXTRACTED* [EMAIL]
+> - 🚧  *14_OFFICE_DATOTEKE_EXTRACTED* [OFFICE]
+
 > [!IMPORTANT] (24.03.2025.) 
 > 
 > 📢 **Veliki korak napred u istraživanju incidenta sa padom nadstrešnice na železničkoj stanici u Novom Sadu – dokumentacija je sada dostupna u interaktivnoj formi uz pomoć veštačke inteligencije!**
