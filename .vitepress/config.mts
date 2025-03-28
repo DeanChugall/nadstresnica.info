@@ -29,10 +29,12 @@ export default defineConfig({
       provider: 'local'
     },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Dokumentacija', link: '/dokumentacija' },
-      { text: 'Pretraga', link: 'https://pretraga.nadstresnica.info/' },
-      { text: 'Analiza', link: '/analiza' }
+      { text: '🏠 Home', link: '/' },
+      { text: '🔎 Pretraga', link: 'https://pretraga.nadstresnica.info/' },
+      { text: '🤖 ChatBot', link: 'https://ai.nadstresnica.info/' },
+      { text: '🗃️ Dokumentacija', link: '/dokumentacija' },
+      
+      { text: '🎢 Analiza', link: '/analiza' }
     ],
     logo: '/assets/logo-nadstresnica-1.png',
     siteTitle: false,
