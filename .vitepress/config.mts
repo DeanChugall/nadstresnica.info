@@ -32,8 +32,8 @@ export default defineConfig({
       { text: '🏠 Home', link: '/' },
       { text: '🔎 Pretraga', link: 'https://pretraga.nadstresnica.info/' },
       { text: '🤖 ChatBot', link: 'https://ai.nadstresnica.info/' },
+      { text: '👀 Vizual', link: 'http://graf.nadstresnica.info/' },
       { text: '🗃️ Dokumentacija', link: '/dokumentacija' },
-      
       { text: '🎢 Analiza', link: '/analiza' }
     ],
     logo: '/assets/logo-nadstresnica-1.png',
