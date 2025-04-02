@@ -56,7 +56,7 @@ hero:
 >
 >---
 >
-> **Kategorije dokumenata koje su u pr`ogresu:**
+> **Kategorije dokumenata koje su u obradi:**
 > - ✅ 📂 **1_PROJEKAT** [VRS]
 > - ✅ 📂 **2_NADSTRESNICA** [VRS]
 > - ✅ 📂 **3_IZVESTAJI_MESECNI** [VRS]
