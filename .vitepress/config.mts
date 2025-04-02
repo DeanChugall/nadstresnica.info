@@ -9,6 +9,7 @@ export default defineConfig({
   lastUpdated: true,
   ignoreDeadLinks: true,
   head: [
+    ['link', { rel: 'icon', href: 'assets/logo-nadstresnica-1.png' }],
     [
       'script',
       { async: '', src: "https://www.googletagmanager.com/gtag/js?id=G-V9965J5WZR" }
@@ -23,6 +24,7 @@ export default defineConfig({
       gtag('config', 'G-V9965J5WZR');`
     ]
   ],
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
