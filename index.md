@@ -65,7 +65,14 @@ hero:
 > - ✅ 📂 **6_PRIKLJUCENJA** [VRS]
 > - ✅ 📂 **7_POKRAJNSKA_INSPEKCIJA** [VRS]
 > - ✅ 📂 **8_DIREKCIJA_ZA_ZELEZNICE_I_OPSTA_AKTA** [VRS]
-> - 🚧  *9_CEOP_DOKUMENTACIJA_IZ_APR* [VRS] **(...U TOKU...)**
+> - 🚧  *9_CEOP_DOKUMENTACIJA_IZ_APR* [VRS] 
+> - - ✅  *199_ceop_dok_lokacijski_uslovi* 
+> - - 🚧  *200_ceop_dok_gradjevinska_dozvola* **(🚨...U TOKU...🚨)**
+> - - ✅  *201_ceop_dok_PZI_saglasnost_mup_vanredne_situacije* 
+> - - 🚧  *202_ceop_dok_prijava_radova* 
+> - - 🚧  *203_ceop_dok_prijava_zavrsetka_izrade_temelja* 
+> - - 🚧  *204_ceop_dok_prijava_zavrsetka_objekta_konstrukt_smislu* 
+> - - 🚧  *205_saglasnost_insvestitora_finensijera_na_izbor_podizvodjaca* 
 > - 🚧  *10_DOK_PO_DODATNIM_ZAHTEVIMA* [VRS]
 > - 🚧  *11_DOKUMENTA_ZELEZNICA_SRBIJE* [IžS]
 > - 🚧  *12_VJT_NS_DOKUMENTACIJA* [VJT]
